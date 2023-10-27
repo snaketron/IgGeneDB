@@ -1,4 +1,4 @@
-# IgGeneDB
+# IgGeneUsageDB
 Database of Ig gene usage in **naive** and **memory** B-cell compartments of **healthy humans**
 
 Data from two studies is compiled here:
